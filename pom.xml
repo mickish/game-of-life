@@ -7,7 +7,7 @@
     <packaging>pom</packaging>
     <name>gameoflife</name>   
                
-    <url>https://github.com/wakaleo/game-of-life</url>
+    <url>https://github.com/mickish/game-of-life</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -15,7 +15,7 @@
         <cobertura.version>2.4</cobertura.version>
         <!-- A workaround for a bug in PMD -->
         <targetJdk>1.6</targetJdk>
-        <github.account>wakaleo</github.account>
+        <github.account>mickish</github.account>
     </properties>    
 
     <scm>
